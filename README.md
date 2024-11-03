@@ -1,5 +1,7 @@
 ## API Gateway, Boto3 , Lambda, and EventBridge to Automate Stopping EC2 Instances At Pre-determined Times
 
+![Dennis Tei-Muno](https://github.com/user-attachments/assets/e061eff4-5a8b-49bb-a184-19f010c2d75c)
+
 # Project Outline:
 This project has three parts from simple to complex:
 - Part 1: Create A Python Script with Boto3 and Insert Into Lambda That Stops EC2 Instances At A Certain Time
